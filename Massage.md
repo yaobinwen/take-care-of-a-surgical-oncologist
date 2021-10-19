@@ -16,7 +16,11 @@ Use thumbs to massage into the arch of the sole of her foot.
 
 Use thumbs to massage the top of the feet.
 
+Massage the heel by circling the thumb around it.
+
 Pull the toes gently.
+
+Massage around the Achilles' tendon by gently pulling it from underneath.
 
 ## References
 

@@ -1,5 +1,56 @@
 # 食物
 
+## EWG's 2021 Shopper's Guide to Pesticides in Produce™
+
+[EWG's 2021 Shopper's Guide to Pesticides in Produce™](https://www.ewg.org/foodnews/full-list.php)(from most contaminate to least contaminate):
+
+1. Strawberries 草莓
+2. Spinach 菠菜
+3. Kale, collard and mustard greens 羽衣甘蓝/芥菜
+4. Nectarines 油桃
+5. Apples 苹果
+6. Grapes 葡萄
+7. Cherries 樱桃
+8. Peaches 桃子
+9. Pears 梨
+10. Bell and hot Peppers 青椒和红辣椒
+11. Celery 芹菜
+12. Tomatoes 西红柿
+13. Potatoes 土豆
+14. Cherry Tomatoes 圣女果(小西红柿)
+15. Lettuce 生菜
+16. Blueberries 蓝莓
+17. Cucumbers 黄瓜
+18. Plums 李子
+19. Green Beans 豆角
+20. Tangerines 柑橘
+21. Grapefruit 西柚
+22. Raspberries 小红梅
+23. Snap Peas 豌豆
+24. Oranges 橙子
+25. Carrots 胡萝卜
+26. Winter Squashes 冬瓜
+27. Summer Squashes 西葫芦
+28. Bananas 香蕉
+29. Sweet Potatoes 红薯
+30. Watermelon 西瓜
+31. Mangoes 芒果
+32. Cantaloupe 哈密瓜
+33. Honeydew melon 蜜瓜
+34. Mushrooms 蘑菇
+35. Cauliflower 菜花(花椰菜)
+36. Kiwi 猕猴桃
+37. Cabbage 卷心菜
+38. Broccoli 西兰花
+39. Asparagus 芦笋
+40. Eggplant 茄子
+41. Sweet peas (frozen) 甜豌豆（冷冻）
+42. Papaya 木瓜
+43. Onions 洋葱
+44. Pineapple 波罗
+45. Sweet corn 甜玉米
+46. Avocados 牛油果(鳄梨)
+
 ## 拍黄瓜
 
 食材：黄瓜，蒜头，小红辣椒
